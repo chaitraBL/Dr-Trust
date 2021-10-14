@@ -1,0 +1,6 @@
+/* Bundle name */
+"CFBundleName" = "Gluco App";
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "You can select photos";
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "This app will use photos";

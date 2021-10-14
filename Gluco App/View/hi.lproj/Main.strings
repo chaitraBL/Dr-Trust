@@ -1,0 +1,490 @@
+/*Login Page*/
+/* Class = "UITextField"; placeholder = "Email Id"; ObjectID = "tr4-tX-Lja"; */
+"tr4-tX-Lja.placeholder" = "ईमेल आईडी";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "8qh-7h-PzQ"; */
+"8qh-7h-PzQ.placeholder" = "पासवर्ड";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password"; ObjectID = "lt8-kj-lzf"; */
+"lt8-kj-lzf.normalTitle" = "पासवर्ड भूल गए";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "qhC-gh-bCa"; */
+"qhC-gh-bCa.normalTitle" = "साइन अप करें";
+
+/* Class = "UILabel"; text = "Welcome.Please login to continue."; ObjectID = "mId-d0-EPQ"; */
+"mId-d0-EPQ.text" = "आपका स्वागत है|जारी रखने के लिए लॉगिन करें|";
+
+/* Class = "UILabel"; text = "Log In"; ObjectID = "dBH-dx-K4I"; */
+"dBH-dx-K4I.text" = "लॉग इन करें";
+
+/* Class = "UIButton"; normalTitle = "Log In"; ObjectID = "88y-fk-Pd0"; */
+"88y-fk-Pd0.normalTitle" = "लॉग इन करें";
+
+/*SignUP1*/
+
+/* Class = "UILabel"; text = "Sign Up"; ObjectID = "CcL-ps-tsg"; */
+"CcL-ps-tsg.text" = "साइन अप करें";
+
+/* Class = "UILabel"; text = "Create your account in few steps"; ObjectID = "rYW-Ef-KPW"; */
+"rYW-Ef-KPW.text" = "कुछ चरणों में अपना खाता बनाएँ";
+
+/* Class = "UILabel"; text = "Step  1/5"; ObjectID = "wta-8f-lqo"; */
+"wta-8f-lqo.text" = "कदम  1/5";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "jh0-Rs-ivx"; */
+"jh0-Rs-ivx.placeholder" = "पहला नाम";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "smb-sv-DCS"; */
+"smb-sv-DCS.placeholder" = "उपनाम";
+
+/* Class = "UILabel"; text = "Choose Gender"; ObjectID = "cqr-Yz-MtP"; */
+"cqr-Yz-MtP.text" = "लिंग चुनें";
+
+/* Class = "UILabel"; text = "Male"; ObjectID = "80A-dP-ugM"; */
+"80A-dP-ugM.text" = "पुरुष";
+
+/* Class = "UILabel"; text = "Female"; ObjectID = "g46-aW-UkF"; */
+"g46-aW-UkF.text" = "महिला";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "2vo-Mp-wMM"; */
+"2vo-Mp-wMM.normalTitle" = "अगला";
+
+/* Class = "UILabel"; text = "Already have an account?"; ObjectID = "xed-DP-x0Q"; */
+"xed-DP-x0Q.text" = "क्या आपके पास पहले से एक खाता मौजूद है?";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "jUv-Cu-4qV"; */
+"jUv-Cu-4qV.normalTitle" = "साइन इन करें";
+
+/*SignUP2*/
+
+/* Class = "UILabel"; text = "Sign Up"; ObjectID = "pj3-wa-a1j"; */
+"pj3-wa-a1j.text" = "साइन अप करें";
+
+/* Class = "UILabel"; text = "Create your account in few steps"; ObjectID = "Uas-cf-Pqo"; */
+"Uas-cf-Pqo.text" = "कुछ चरणों में अपना खाता बनाएँ";
+
+/* Class = "UILabel"; text = "Step  2/5"; ObjectID = "75z-ZM-oeO"; */
+"75z-ZM-oeO.text" = "कदम  2/5";
+
+/* Class = "UITextField"; placeholder = "Date Of Birth"; ObjectID = "1HS-ZW-CzZ"; */
+"1HS-ZW-CzZ.placeholder" = "जन्म की तारीख";
+
+/* Class = "UILabel"; text = "Choose Height & Weight"; ObjectID = "Pln-Ln-JZV"; */
+"Pln-Ln-JZV.text" = "ऊँचाई चुनें & वजन";
+
+/* Class = "UILabel"; text = "Blood Type"; ObjectID = "BaL-0o-aOh"; */
+"BaL-0o-aOh.text" = "रक्त प्रकार";
+
+/* Class = "UILabel"; text = "Choose Region"; ObjectID = "Vgy-0M-bWd"; */
+"Vgy-0M-bWd.text" = "क्षेत्र चुनें";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "4Rl-q8-V10"; */
+"4Rl-q8-V10.normalTitle" = "अगला";
+
+/* Class = "UILabel"; text = "Already have an account?"; ObjectID = "b4y-iH-Os9"; */
+"b4y-iH-Os9.text" = "क्या आपके पास पहले से एक खाता मौजूद है?";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "2ES-gf-RAZ"; */
+"2ES-gf-RAZ.normalTitle" = "साइन इन करें";
+
+/*SignUP3*/
+
+/* Class = "UILabel"; text = "Sign Up"; ObjectID = "8SW-B5-63f"; */
+"8SW-B5-63f.text" = "साइन अप करें";
+
+/* Class = "UILabel"; text = "Create your account in few steps"; ObjectID = "DRt-3H-QWE"; */
+"DRt-3H-QWE.text" = "कुछ चरणों में अपना खाता बनाएँ";
+
+/* Class = "UILabel"; text = "Step 3/5"; ObjectID = "CiU-1Y-2Mr"; */
+"CiU-1Y-2Mr.text" = "कदम 3/5";
+
+/* Class = "UITextField"; placeholder = "Email Id"; ObjectID = "cm4-SQ-wgJ"; */
+"cm4-SQ-wgJ.placeholder" = "ईमेल आईडी";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "QAo-CS-jZg"; */
+"QAo-CS-jZg.placeholder" = "पासवर्ड";
+
+/* Class = "UILabel"; text = "[Password : A-Z,a-z,0-9,@*..]"; ObjectID = "7nu-5i-hGg"; */
+"7nu-5i-hGg.text" = "[पासवर्ड : A-Z,a-z,0-9,@*..]";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "WYI-gr-Bzo"; */
+"WYI-gr-Bzo.placeholder" = "पासवर्ड की पुष्टि कीजिये";
+
+/* Class = "UILabel"; text = "[Password : A-Z,a-z,0-9,@*..]"; ObjectID = "CAz-z5-671"; */
+"CAz-z5-671.text" = "[पासवर्ड : A-Z,a-z,0-9,@*..]";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "gph-xC-fZE"; */
+"gph-xC-fZE.placeholder" = "मोबाइल नंबर";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "poF-gf-rb6"; */
+"poF-gf-rb6.normalTitle" = "अगला";
+
+/* Class = "UILabel"; text = "Already have an account?"; ObjectID = "P7v-bs-CIq"; */
+"P7v-bs-CIq.text" = "क्या आपके पास पहले से एक खाता मौजूद है?";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "irS-rE-tfD"; */
+"irS-rE-tfD.normalTitle" = "साइन इन करें";
+
+/*SignUP4*/
+
+/* Class = "UILabel"; text = "Sign Up"; ObjectID = "zYG-YP-hPo"; */
+"zYG-YP-hPo.text" = "साइन अप करें";
+
+/* Class = "UILabel"; text = "Create your account in few steps"; ObjectID = "n0U-tz-mf4"; */
+"n0U-tz-mf4.text" = "कुछ चरणों में अपना खाता बनाएँ";
+
+/* Class = "UILabel"; text = "Step 4/5"; ObjectID = "nn8-AK-KkP"; */
+"nn8-AK-KkP.text" = "कदम 4/5";
+
+/* Class = "UILabel"; text = "An End-User License Agreement (EULA) is an agreement put in place between someone who purchase,installs,or downloads software, and the licensor or provider of that siiftware.\n\nThe kind of legal agreement can go by different names:\n\nEULA"; ObjectID = "lT4-UW-rUw"; */
+"lT4-UW-rUw.text" = "एंड-यूज़र लाइसेंस एग्रीमेंट (EULA) \n समझौता है जो किसी ऐसे व्यक्ति के बीच रखा गया है जो है
+खरीद, स्थापित, या डाउनलोड सॉफ्टवेयर, और लाइसेंस या उस सॉफ्टवेयर के प्रदाता।\n\nविभिन्न प्रकार के कानूनी समझौते विभिन्न \n नामों से जा सकते हैं:\n\nEULA";
+
+/* Class = "UIButton"; normalTitle = "Read Agreement"; ObjectID = "A5Y-BS-Xmo"; */
+"A5Y-BS-Xmo.normalTitle" = "Read Agreement";
+
+/* Class = "UILabel"; text = "I have read and agree to the terms and conditions"; ObjectID = "iaN-a7-gMK"; */
+"iaN-a7-gMK.text" = "मैंने नियमों और शर्तों को पढ़ लिया है और उनसे सहमत हूं";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "Y6S-Z1-OLO"; */
+"Y6S-Z1-OLO.normalTitle" = "अगला";
+
+/* Class = "UILabel"; text = "Already have an account?"; ObjectID = "q1P-2c-0Gp"; */
+"q1P-2c-0Gp.text" = "क्या आपके पास पहले से एक खाता मौजूद है?";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "EZa-5U-DQ1"; */
+"EZa-5U-DQ1.normalTitle" = "साइन इन करें";
+
+/*OTP Verification*/
+
+/* Class = "UILabel"; text = "OTP Verification"; ObjectID = "hJr-s3-wOT"; */
+"hJr-s3-wOT.text" = "OTP सत्यापन";
+
+/* Class = "UILabel"; text = "Enter the OTP sent to moblie number"; ObjectID = "Gsu-js-kbe"; */
+"Gsu-js-kbe.text" = "भेजे गए ओटीपी को दर्ज करें";
+
+/* Class = "UILabel"; text = "Step 5/5"; ObjectID = "F92-mf-r5C"; */
+"F92-mf-r5C.text" = "कदम 5/5";
+
+/* Class = "UIButton"; normalTitle = "Verify and Finish"; ObjectID = "naW-8u-gnz"; */
+"naW-8u-gnz.normalTitle" = "सत्यापित करें और समाप्त करें";
+
+/* Class = "UILabel"; text = "To change mobile number,"; ObjectID = "aQy-Qj-Nee"; */
+"aQy-Qj-Nee.text" = "मोबाइल नंबर बदलने के लिए,";
+
+/* Class = "UIButton"; normalTitle = "Click here"; ObjectID = "J9v-DD-BXQ"; */
+"J9v-DD-BXQ.normalTitle" = "यहां क्लिक करें";
+
+/* Class = "UILabel"; text = "End User Licence Agreement"; ObjectID = "iUL-Vb-eg4"; */
+"iUL-Vb-eg4.text" = "एंड-यूज़र लाइसेंस एग्रीमेंट";
+
+/*Menu*/
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "Iwk-Xo-Zyz"; */
+"Iwk-Xo-Zyz.text" = "प्रोफ़ाइल";
+
+/* Class = "UILabel"; text = "Prescription"; ObjectID = "ixf-xi-tFu"; */
+"ixf-xi-tFu.text" = "नुस्खे";
+
+/* Class = "UILabel"; text = "Logs"; ObjectID = "Dlh-ci-x8r"; */
+"Dlh-ci-x8r.text" = "लॉग्स";
+
+/* Class = "UILabel"; text = "Contacts"; ObjectID = "jKI-0m-VR3"; */
+"jKI-0m-VR3.text" = "संपर्क";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "ygz-nN-n0M"; */
+"ygz-nN-n0M.text" = "सूचनाएं";
+
+/* Class = "UILabel"; text = "Doctor"; ObjectID = "EV3-bZ-FJY"; */
+"EV3-bZ-FJY.text" = "चिकित्सक";
+
+/* Class = "UILabel"; text = "Medicine"; ObjectID = "WaW-la-qkE"; */
+"WaW-la-qkE.text" = "मेडिसीन रिमाइंडर";
+
+/* Class = "UILabel"; text = "BG Reminder"; ObjectID = "E8G-4r-tRS"; */
+"E8G-4r-tRS.text" = "बीजी रिमाइंडर";
+
+/* Class = "UILabel"; text = "Exit"; ObjectID = "cMH-qa-xZC"; */
+"cMH-qa-xZC.text" = "ऐक्सिट";
+
+/* Class = "UILabel"; text = "Help And Support"; ObjectID = "81C-am-7gy"; */
+"81C-am-7gy.text" = "सहायता और समर्थन";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "57c-UM-vag"; */
+"57c-UM-vag.text" = "भाषा बदलो";
+
+/* Class = "UILabel"; text = "About Dr.Trust"; ObjectID = "21N-8t-8fP"; */
+"21N-8t-8fP.text" = "Dr.Trust के बारे में";
+
+/* Class = "UILabel"; text = "LogOut"; ObjectID = "Ybi-0b-oYa"; */
+"Ybi-0b-oYa.text" = "लॉग आउट";
+
+/* Priscription */
+
+/* Class = "UILabel"; text = "View your prescriptions here"; ObjectID = "5Ws-f3-iMC"; */
+"5Ws-f3-iMC.text" = "अपने नुस्खे यहाँ देखें";
+
+/* Class = "UIButton"; normalTitle = "ADD PRESCRIPTIONS"; ObjectID = "Tk7-eO-2mc"; */
+"Tk7-eO-2mc.normalTitle" = "नुस्खे जोड़ें";
+
+/* Class = "UIBarButtonItem"; title = "Share"; ObjectID = "vq1-61-711"; */
+"vq1-61-711.title" = "शेयर";
+
+/* Remainder */
+
+/* Class = "UILabel"; text = "Repeat"; ObjectID = "wHh-2n-wU7"; */
+"wHh-2n-wU7.text" = "दोहराना";
+
+/* Class = "UIButton"; normalTitle = "S"; ObjectID = "f0f-n5-tCK"; */
+"f0f-n5-tCK.normalTitle" = "र";
+
+/* Class = "UIButton"; normalTitle = "M"; ObjectID = "FTe-Tv-Bop"; */
+"FTe-Tv-Bop.normalTitle" = "सो";
+
+/* Class = "UIButton"; normalTitle = "T"; ObjectID = "NXM-UG-RPu"; */
+"NXM-UG-RPu.normalTitle" = "मं";
+
+/* Class = "UIButton"; normalTitle = "W"; ObjectID = "Wo2-UO-Jg1"; */
+"Wo2-UO-Jg1.normalTitle" = "बु";
+
+/* Class = "UIButton"; normalTitle = "T"; ObjectID = "6aB-86-ORE"; */
+"6aB-86-ORE.normalTitle" = "गु";
+
+/* Class = "UIButton"; normalTitle = "F"; ObjectID = "2Gr-AC-ytc"; */
+"2Gr-AC-ytc.normalTitle" = "शु";
+
+/* Class = "UIButton"; normalTitle = "S"; ObjectID = "y2u-ug-XlB"; */
+"y2u-ug-XlB.normalTitle" = "श";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "pRl-gR-pPb"; */
+"pRl-gR-pPb.normalTitle" = "सेव";
+
+/* Class = "UITextField"; placeholder = "Label"; ObjectID = "PDI-3s-y5t"; */
+"PDI-3s-y5t.placeholder" = "मेडिसीन का नाम दर्ज करें";
+
+/* Class = "UIButton"; normalTitle = "S"; ObjectID = "x4l-BX-Kbn"; */
+"x4l-BX-Kbn.normalTitle" = "र";
+
+/* Class = "UIButton"; normalTitle = "M"; ObjectID = "Iq4-Ld-TcM"; */
+"Iq4-Ld-TcM.normalTitle" = "सो";
+
+/* Class = "UIButton"; normalTitle = "T"; ObjectID = "EWv-YX-64C"; */
+"EWv-YX-64C.normalTitle" = "मं";
+
+/* Class = "UIButton"; normalTitle = "W"; ObjectID = "ED3-Ob-CYZ"; */
+"ED3-Ob-CYZ.normalTitle" = "बु";
+
+/* Class = "UIButton"; normalTitle = "T"; ObjectID = "gNF-lC-M3p"; */
+"gNF-lC-M3p.normalTitle" = "गु";
+
+/* Class = "UIButton"; normalTitle = "F"; ObjectID = "FI7-B8-gOg"; */
+"FI7-B8-gOg.normalTitle" = "शु";
+
+/* Class = "UIButton"; normalTitle = "S"; ObjectID = "5Vg-3D-fuj"; */
+"5Vg-3D-fuj.normalTitle" = "श";
+
+/* Notification */
+
+/* Class = "UIButton"; normalTitle = "CLEAR ALL"; ObjectID = "60b-Y1-6wd"; */
+"60b-Y1-6wd.normalTitle" = "सभी साफ करें";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "hvh-tg-Rd6"; */
+"hvh-tg-Rd6.text" = "शीर्षक";
+
+
+/* Class = "UILabel"; text = "Message"; ObjectID = "Cfw-x6-E4c"; */
+"Cfw-x6-E4c.text" = "संदेश";
+
+/* Logs */
+
+/* Class = "UIButton"; normalTitle = "Start Date"; ObjectID = "zjU-DW-OPi"; */
+"zjU-DW-OPi.normalTitle" = "आरंभ तिथि";
+
+/* Class = "UIButton"; normalTitle = "End Date"; ObjectID = "jPQ-Jt-nMc"; */
+"jPQ-Jt-nMc.normalTitle" = "अंतिम तिथि";
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "2C3-cC-a3b"; */
+"2C3-cC-a3b.normalTitle" = "आवेदन करना";
+
+/* Class = "UILabel"; text = "Note: Click on reading to share"; ObjectID = "oSY-RN-Of8"; */
+"oSY-RN-Of8.text" = "नोट: शेयर करने के लिए  पर क्लिक करें";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "gnr-v6-OeM"; */
+"gnr-v6-OeM.text" = "दिनांक";
+
+/* Class = "UILabel"; text = "Fasting"; ObjectID = "PWc-dT-kh7"; */
+"PWc-dT-kh7.text" = "उपवास";
+
+/* Class = "UILabel"; text = "Pre Meal"; ObjectID = "jdi-fx-6XY"; */
+"jdi-fx-6XY.text" = "भोजन पहले";
+
+/* Class = "UILabel"; text = "Post Meal"; ObjectID = "PXv-n4-cYQ"; */
+"PXv-n4-cYQ.text" = "भोजन बाद";
+
+/* Class = "UILabel"; text = "Random"; ObjectID = "7yY-AZ-y4o"; */
+"7yY-AZ-y4o.text" = "अनियमित";
+
+/* Class = "UILabel"; text = "Share Reading..."; ObjectID = "7Rw-5j-UHC"; */
+"7Rw-5j-UHC.text" = "शेयरिंग रिडिंग...";
+
+/* Class = "UILabel"; text = "Reading: "; ObjectID = "YI7-g2-EeA"; */
+"YI7-g2-EeA.text" = "रिडिंग: ";
+
+/* Class = "UILabel"; text = "Status: "; ObjectID = "mAy-Ld-eKp"; */
+"mAy-Ld-eKp.text" = "स्थिति: ";
+
+/* Class = "UILabel"; text = "Date: "; ObjectID = "X3j-Lb-IjM"; */
+"X3j-Lb-IjM.text" = "दिनांक: ";
+
+/* Class = "UIButton"; normalTitle = "Share"; ObjectID = "A7A-xr-Wxc"; */
+"A7A-xr-Wxc.normalTitle" = "शेयर";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "rcN-vm-ePf"; */
+"rcN-vm-ePf.normalTitle" = "रद्द करना";
+
+/* Profile */
+
+/* Class = "UISegmentedControl"; 1Xj-Ow-eRd.segmentTitles[0] = "PERSONAL"; ObjectID = "1Xj-Ow-eRd"; */
+"1Xj-Ow-eRd.segmentTitles[0]" = "व्यक्तिगत";
+
+/* Class = "UISegmentedControl"; 1Xj-Ow-eRd.segmentTitles[1] = "HEALTH"; ObjectID = "1Xj-Ow-eRd"; */
+"1Xj-Ow-eRd.segmentTitles[1]" = "स्वास्थ्य";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "szn-EW-sIS"; */
+"szn-EW-sIS.text" = "पहला नाम";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "a7L-Xv-JkR"; */
+"a7L-Xv-JkR.text" = "उपनाम";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "uH3-pg-3NE"; */
+"uH3-pg-3NE.text" = "लिंग";
+
+/* Class = "UILabel"; text = "Email Id"; ObjectID = "Fg1-NM-oZt"; */
+"Fg1-NM-oZt.text" = "ईमेल आईडी";
+
+/* Class = "UILabel"; text = "D.O.B."; ObjectID = "Sge-UD-hoh"; */
+"Sge-UD-hoh.text" = "जन्म की तारीख";
+
+/* Class = "UILabel"; text = "Phone Number"; ObjectID = "BIN-NZ-Hfx"; */
+"BIN-NZ-Hfx.text" = "फ़ोन नंबर";
+
+/* Class = "UILabel"; text = "Edit"; ObjectID = "t3w-ty-OOC"; */
+"t3w-ty-OOC.text" = "एडिट्";
+
+/* Class = "UISegmentedControl"; BVw-9B-ftS.segmentTitles[0] = "PERSONAL"; ObjectID = "BVw-9B-ftS"; */
+"BVw-9B-ftS.segmentTitles[0]" = "व्यक्तिगत";
+
+/* Class = "UISegmentedControl"; BVw-9B-ftS.segmentTitles[1] = "HEALTH"; ObjectID = "BVw-9B-ftS"; */
+"BVw-9B-ftS.segmentTitles[1]" = "स्वास्थ्य";
+
+/* Class = "UILabel"; text = "Height"; ObjectID = "pFn-uN-mwb"; */
+"pFn-uN-mwb.text" = "ऊंचाई";
+
+/* Class = "UILabel"; text = "Weight"; ObjectID = "eOo-2C-vby"; */
+"eOo-2C-vby.text" = "वजन";
+
+/* Class = "UILabel"; text = "Blood Type"; ObjectID = "bez-fI-64C"; */
+"bez-fI-64C.text" = "रक्त प्रकार";
+
+/* Class = "UILabel"; text = "Edit"; ObjectID = "fjK-LB-Kqs"; */
+"fjK-LB-Kqs.text" = "एडिट्";
+
+/* Contacts */
+
+/* Class = "UILabel"; text = "View your emergency contacts here"; ObjectID = "KtL-84-HrV"; */
+"KtL-84-HrV.text" = "View your emergency contacts here";
+
+/* Class = "UILabel"; text = "Phone :"; ObjectID = "2Xz-pA-wuC"; */
+"2Xz-pA-wuC.text" = "फ़ोन नंबर :";
+
+/* Class = "UILabel"; text = "Email :"; ObjectID = "Vrb-2Q-l5C"; */
+"Vrb-2Q-l5C.text" = "ईमेल आईडी :";
+
+/* Class = "UILabel"; text = "Address :"; ObjectID = "g8Y-Pt-3wy"; */
+"g8Y-Pt-3wy.text" = "पता :";
+
+/* Class = "UIButton"; normalTitle = "Remove"; ObjectID = "QzW-dI-DTG"; */
+"QzW-dI-DTG.normalTitle" = "हटाना";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "Cm7-YB-asw"; */
+"Cm7-YB-asw.normalTitle" = "एडिट्";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "BH6-vl-LJr"; */
+"BH6-vl-LJr.placeholder" = "नाम";
+
+/* Class = "UITextField"; placeholder = "Email Id"; ObjectID = "lEe-E0-2JX"; */
+"lEe-E0-2JX.placeholder" = "ईमेल आईडी";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "4E7-36-eCW"; */
+"4E7-36-eCW.placeholder" = "फ़ोन नंबर";
+
+/* Class = "UITextField"; placeholder = "Address 1"; ObjectID = "nKe-vl-Gme"; */
+"nKe-vl-Gme.placeholder" = "पता 1";
+
+/* Class = "UITextField"; placeholder = "Address 2"; ObjectID = "Y2c-qH-CMo"; */
+"Y2c-qH-CMo.placeholder" = "पता 2";
+
+/* Class = "UITextField"; placeholder = "Pincode"; ObjectID = "R95-vx-oGA"; */
+"R95-vx-oGA.placeholder" = "पिन कोड";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "chz-Ng-OUn"; */
+"chz-Ng-OUn.normalTitle" = "प्रस्तुत";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "G4a-3E-XFf"; */
+"G4a-3E-XFf.placeholder" = "नाम";
+
+/* Class = "UITextField"; placeholder = "Email Id"; ObjectID = "FOz-mj-uUM"; */
+"FOz-mj-uUM.placeholder" = "ईमेल आईडी";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "C2G-Da-R3y"; */
+"C2G-Da-R3y.placeholder" = "फ़ोन नंबर";
+
+/* Class = "UITextField"; placeholder = "Address 1"; ObjectID = "FO8-FE-HS0"; */
+"FO8-FE-HS0.placeholder" = "पता 1";
+
+/* Class = "UITextField"; placeholder = "Address 2"; ObjectID = "gTV-On-L4a"; */
+"gTV-On-L4a.placeholder" = "पता 2";
+
+/* Class = "UITextField"; placeholder = "Pincode"; ObjectID = "hV6-Fz-Aqf"; */
+"hV6-Fz-Aqf.placeholder" = "पिन कोड";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "SYS-oB-xOz"; */
+"SYS-oB-xOz.normalTitle" = "संपर्क अपडेट करें";
+
+/* Home screen */
+
+/* Class = "UISegmentedControl"; zHg-2s-Wqm.segmentTitles[0] = "One Week"; ObjectID = "zHg-2s-Wqm"; */
+"zHg-2s-Wqm.segmentTitles[0]" = "एक हफ्ता";
+
+/* Class = "UISegmentedControl"; zHg-2s-Wqm.segmentTitles[1] = "One Month"; ObjectID = "zHg-2s-Wqm"; */
+"zHg-2s-Wqm.segmentTitles[1]" = "एक माह";
+
+/* Class = "UISegmentedControl"; zHg-2s-Wqm.segmentTitles[2] = "All"; ObjectID = "zHg-2s-Wqm"; */
+"zHg-2s-Wqm.segmentTitles[2]" = "सब";
+
+/* Class = "UIButton"; normalTitle = "All"; ObjectID = "E2j-hM-plD"; */
+"E2j-hM-plD.normalTitle" = "सब";
+
+/* Class = "UIButton"; normalTitle = "Fasting"; ObjectID = "42c-gC-L7n"; */
+"42c-gC-L7n.normalTitle" = "उपवास";
+
+/* Class = "UIButton"; normalTitle = "Pre Meal"; ObjectID = "3R9-xD-Qbs"; */
+"3R9-xD-Qbs.normalTitle" = "भोजन पहले";
+
+/* Class = "UIButton"; normalTitle = "Post Meal"; ObjectID = "ccC-KU-qVx"; */
+"ccC-KU-qVx.normalTitle" = "भोजन बाद";
+
+/* Class = "UIButton"; normalTitle = "Random"; ObjectID = "MRS-BF-qMj"; */
+"MRS-BF-qMj.normalTitle" = "अनियमित";
+
+/* Class = "UITabBarItem"; title = "Reading"; ObjectID = "UdJ-Zc-1yu"; */
+"UdJ-Zc-1yu.title" = "रिडिंग";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "Ul6-wZ-fCI"; */
+"Ul6-wZ-fCI.title" = "होम";
+
+/* Class = "UITabBarItem"; title = "Shop"; ObjectID = "G1G-MX-THq"; */
+"G1G-MX-THq.title" = "शाप";
+
+/* Update Profile */
+
